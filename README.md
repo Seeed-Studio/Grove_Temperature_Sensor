@@ -1,7 +1,9 @@
 Grove_Temperature_Sensor
 --------------------------------
 
-[![Grove_Temperature_Sensor](http://www.seeedstudio.com/wiki/images/thumb/b/b0/Temperature1.jpg/400px-Temperature1.jpg)](http://www.seeedstudio.com/depot/grove-temperature-sensor-p-774.html?cPath=25_27)
+<img src=https://statics3.seeedstudio.com/images/101020015%201.jpg width=300><img src=https://statics3.seeedstudio.com/seeed/file/2017-11/bazaar619116_1010200152.jpg width=300>
+
+[Grove - Temperature Sensor](https://www.seeedstudio.com/s/Grove-Temperature-Sensor-p-774.html)
 
 The Grove - Temperature Sensor uses a Thermistor to detect the ambient temperature. The resistance of a thermistor will increase when the ambient temperature decreases. It's this characteristic that we use to calculate the ambient temperature. The detectable range of this sensor is -40 - 125ºC, and the accuracy is ±1.5ºC
 
@@ -11,7 +13,7 @@ Just open this ino file with Arduino IDE and play.
 
 Assume that you connected the grove correctly. 
 
-For connection guide and more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/Grove_-_Temperature_Sensor).
+For connection guide and more information, please refer to [wiki page](http://wiki.seeedstudio.com/Grove-Temperature_Sensor_V1.2/).
 
     
 ----
